@@ -1,5 +1,5 @@
-# bashdeko
-skidded from kwoth's bashdeko
+# bashdeko 
+how to use bashdeko (skidded from kwoth's bashdeko)
 
 1) open terminal and navigate to the location where you want to install the bot (`cd ~/somewhere`)
 
