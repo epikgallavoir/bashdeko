@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Running NadekoBot"
+echo "Running nedakoc"
 root=$(pwd)
 
 if hash dotnet 2>/dev/null
@@ -11,7 +11,7 @@ else
 fi
 
 cd "$root/nadekobot/output"
-echo "Running NadekoBot. Please wait."
+echo "Running nedakoc. Please wait."
 dotnet NadekoBot.dll
 echo "Done"
 

@@ -1,6 +1,6 @@
 #!/bin/sh
 echo ""
-echo "Welcome to NadekoBot."
+echo "Welcome to nedakoc, a fork (skid) of NadekoBot."
 echo "Downloading the latest installer..."
 root=$(pwd)
 
