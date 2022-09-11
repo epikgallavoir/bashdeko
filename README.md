@@ -15,3 +15,9 @@ how to use bashdeko (skidded from kwoth's bashdeko)
 7) open that file with an editor and read the guide [here](https://nadekobot.readthedocs.io/en/v4/creds-guide) (**REMEMBER TO SAVE AFTER DONE EDITING**)
 
 8) run the script again and run the bot (press 3)
+
+
+# autorunning
+
+go to [here](https://nadekobot.readthedocs.io/en/v4/guides/linux-guide/#systemd-script)
+im too lazy and dumb to do this please send help
