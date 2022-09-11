@@ -27,7 +27,7 @@ read choice
     if [ $choice -eq 1 ] ; then
         echo ""
         echo "Running NadekoBot with auto update. Please wait. . ."
-        while :; do cd $root/nadekobot/output && dotnet NadekoBot.dll ; youtube-dl -U && cd $root && wget -N https://gitlab.com/Kwoth/nadeko-bash-installer/-/raw/v4/n-download.sh && bash "$root/n-download.sh"; sleep 5s; done
+        while :; do cd $root/nadekobot/output && dotnet NadekoBot.dll ; youtube-dl -U && cd $root && wget -N https://raw.githubusercontent.com/epikgallavoir/bashdeko/main/n-download.sh && bash "$root/n-download.sh"; sleep 5s; done
         echo "Done"
     elif [ $choice -eq 2 ] ; then
         echo ""
