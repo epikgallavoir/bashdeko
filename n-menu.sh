@@ -6,7 +6,7 @@ echo ""
 root=$(pwd)
 choice=9
     
-base_url="https://gitlab.com/Kwoth/nadeko-bash-installer/-/raw/v4"
+base_url=""
 
 script_menu="n-menu.sh"
 script_prereq="n-prereq.sh"
