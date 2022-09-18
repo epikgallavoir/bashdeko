@@ -5,6 +5,9 @@
 # (B) - Aliases related operations
 # (C) - Strings related operations
 
+# always remember to check your characters encoding
+# thank you Duong Hong An
+
 root=$(pwd)
 
 cd nedakoc/
