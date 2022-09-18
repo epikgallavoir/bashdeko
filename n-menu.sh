@@ -6,7 +6,7 @@ echo ""
 root=$(pwd)
 choice=9
     
-base_url="https://github.com/epikgallavoir/bashdeko"
+base_url="https://raw.githubusercontent.com/epikgallavoir/bashdeko/main/"
 
 script_menu="n-menu.sh"
 script_prereq="n-prereq.sh"
