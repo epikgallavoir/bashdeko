@@ -21,3 +21,6 @@ how to use bashdeko (skidded from kwoth's bashdeko)
 
 go to [here](https://nadekobot.readthedocs.io/en/v4/guides/linux-guide/#systemd-script)
 im too lazy and dumb to do this please send help
+
+
+*future me, please always check your encodings before commiting*
