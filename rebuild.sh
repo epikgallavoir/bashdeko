@@ -7,7 +7,7 @@
 
 root=$(pwd)
 
-cd ~/nadekoc
+cd ~/nadekoc/
 
 # build
 export DOTNET_CLI_TELEMETRY_OPTOUT=1
