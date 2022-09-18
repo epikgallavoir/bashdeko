@@ -2,10 +2,10 @@
 root=$(pwd)
 
 # remove old backup
-rm -rf nadekobot_old 1>/dev/null 2>&1
+rm -rf nedakod_old 1>/dev/null 2>&1
 
 # make a new backup
-cp -rT nadekobot nadekobot_old 1>/dev/null 2>&1
+cp -rT nedakod nedakod_old 1>/dev/null 2>&1
 
 wget -q -N https://raw.githubusercontent.com/epikgallavoir/bashdeko/main/rebuild.sh
 bash rebuild.sh
