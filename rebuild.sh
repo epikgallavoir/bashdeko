@@ -12,7 +12,7 @@ cd nedakoc/
 # build
 export DOTNET_CLI_TELEMETRY_OPTOUT=1
 dotnet restore -f --no-cache
-dotnet build src/NadekoBot/NadekoBot.csproj -c Release -o output/
+dotnet build nedakoc/src/NadekoBot/NadekoBot.csproj -c Release -o output/
 
 # go back
 cd "$root"
