@@ -10,7 +10,7 @@ else
     exit 1
 fi
 
-cd "$root/nadekoc/output"
+cd "$root/nedakoc/output"
 echo "Running nedakoc. Please wait."
 dotnet NadekoBot.dll
 echo "Done"
