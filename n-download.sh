@@ -9,7 +9,7 @@ rm -rf nadekobot_old 1>/dev/null 2>&1
 mv -fT nadekobot nadekobot_old 1>/dev/null 2>&1
 
 # clone new version
-git clone -b v4 --recursive --depth 1 https://github.com/epikgallavoir/nedakoc
+git clone --recursive --depth 1 https://github.com/epikgallavoir/nedakoc
 
 wget -q -N https://raw.githubusercontent.com/epikgallavoir/bashdeko/main/rebuild.sh
 bash rebuild.sh
